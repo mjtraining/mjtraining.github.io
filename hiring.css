@@ -6,7 +6,7 @@ html{
 body{
  width: 100%;
  height: 100%;
- background-image: url("splash.png");
+ background-image: url("splash.PNG");
   background-repeat: repeat;
   background-attachment: fixed;
   background-size: 60%;
@@ -17,7 +17,7 @@ body{
 
 
 .head-container {
-  background-image: url("mission_logo.png");
+  background-image: url("mission_logo.PNG");
   background-repeat: no-repeat;
   background-size: 55%;
   background-position: 45% 50% ;
